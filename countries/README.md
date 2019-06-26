@@ -14,7 +14,7 @@ En la parte superior del mapa se muestran la fecha y la hora del último disposi
 
     python lth_upna_map.py [-u] [-p]
 
-        -u    Database username
-        -p    Database password
+        -u    Usuario de base de datos
+        -p    Contraseña de base de datos
 
-_Se generará un fichero por cada sensor y uno adicional recogiendo los datos de todos los sensores_
+_Se generará un fichero por cada sensor y uno adicional recogiendo los datos de todos los sensores._
